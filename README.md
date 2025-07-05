@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/automation-ai-labs-mcp-wait-badge.png)](https://mseep.ai/app/automation-ai-labs-mcp-wait)
+
 # MCP-Wait
 [![smithery badge](https://smithery.ai/badge/@automation-ai-labs/mcp-wait)](https://smithery.ai/server/@automation-ai-labs/mcp-wait)
 
