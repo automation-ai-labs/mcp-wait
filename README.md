@@ -77,7 +77,7 @@ TRANSPORT_TYPE=sse PORT=8080 npm start
 
 The server provides a simple `wait` tool that accepts a `seconds` parameter:
 
-- `seconds`: The number of seconds to wait (0-300)
+- `seconds`: The number of seconds to wait (0-30000)
 
 Example:
 ```json

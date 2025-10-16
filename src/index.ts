@@ -22,7 +22,7 @@ server.addTool({
   name: "wait",
   description: "Wait for a specified number of seconds, useful for waiting for other tasks to finish",
   parameters: z.object({
-    seconds: z.number().min(0).max(300).describe("The number of seconds to wait (0-300)"),
+    seconds: z.number().min(0).max(30000).describe("The number of seconds to wait (0-30000)"),
   }),
   execute: async (args, { reportProgress }) => {
     const { seconds } = args;
